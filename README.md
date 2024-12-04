@@ -1,2 +1,2 @@
-# carrrier-website
-A carriers website(Trial) 
+# career-website
+A careers website(Trial) 
